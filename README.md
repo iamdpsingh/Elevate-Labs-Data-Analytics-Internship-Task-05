@@ -23,7 +23,7 @@ To perform Exploratory Data Analysis (EDA) on a dataset (Titanic dataset or any 
 ## 📂 Dataset
 
 **Name**: Titanic Dataset  
-**Source**: [Kaggle - Titanic dataset ]([https://www.kaggle.com/competitions/titanic/data](https://www.kaggle.com/datasets/brendan45774/test-file))
+**Source**: [Kaggle - Titanic dataset ](https://www.kaggle.com/datasets/brendan45774/test-file)
 
 ---
 
